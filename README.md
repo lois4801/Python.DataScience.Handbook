@@ -9,6 +9,7 @@ This repository contains the entire [Python Data Science Handbook](http://shop.o
 
 ## How to Use this Book
 
+
 - Read the book in its entirety online at https://jakevdp.github.io/PythonDataScienceHandbook/
 
 - Run the code using the Jupyter notebooks available in this repository's [notebooks](notebooks) directory.
